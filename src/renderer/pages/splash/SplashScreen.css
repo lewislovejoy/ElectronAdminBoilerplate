@@ -1,0 +1,16 @@
+.text-bar {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+.text-bar:before, .text-bar:after {
+  content: "";
+  height: 1px;
+  flex: 1 1;
+  left: 0;
+  background-color: #E1E1F0;
+  top: 50%;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,209 @@
+[
+  {
+    "icon": "fa-solid fa-house-chimney",
+    "name": "HOME",
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Summary",
+            "link": "/dashboard"
+          },
+          {
+            "name": "Grey",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-gauge",
+    "name": "SETTINGS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Grey",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-gear",
+    "name": "COMPONENTS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Grey",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "fa-solid fa-user-group",
+    "name": "USERS",
+
+    "children": [
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Bootstrap",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Grey",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Plugins",
+        "children": [
+          {
+            "name": "Green",
+            "link": "/settings"
+          },
+          {
+            "name": "Blue",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      },
+      {
+        "icon": "fa-solid fa-staff-snake",
+        "name": "Widgets",
+        "children": [
+          {
+            "name": "Light",
+            "link": "/settings"
+          },
+          {
+            "name": "Dark",
+            "link": "/settings"
+          },
+          {
+            "name": "Red",
+            "link": "/settings"
+          }
+        ]
+      }
+    ]
+  }
+]
